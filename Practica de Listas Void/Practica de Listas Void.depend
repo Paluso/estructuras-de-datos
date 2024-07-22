@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1652497017 source:c:\users\pc\desktop\juan\universidad unla\2do anio\1t - a - ayed\codigo\practica\practica de listas, listas void, pilas y colas\practica de listas void\main.cpp
+	<iostream>
+	"listaVoid.h"
+
+1652491692 c:\users\pc\desktop\juan\universidad unla\2do anio\1t - a - ayed\codigo\practica\practica de listas, listas void, pilas y colas\practica de listas void\listavoid.h
+
+1652494383 source:c:\users\pc\desktop\juan\universidad unla\2do anio\1t - a - ayed\codigo\practica\practica de listas, listas void, pilas y colas\practica de listas void\listavoid.cpp
+	<iostream>
+	"listaVoid.h"
+
+1652497158 source:c:\users\user\desktop\practica de listas void\listavoid.cpp
+	<iostream>
+	"listaVoid.h"
+
+1652491692 c:\users\user\desktop\practica de listas void\listavoid.h
+
+1652497017 source:c:\users\user\desktop\practica de listas void\main.cpp
+	<iostream>
+	"listaVoid.h"
+
+1653530050 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\persona\persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+	"../DispositivosTec/dispositivo.h"
+	"../Fecha/fecha.h"
+
+1653525486 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\persona\persona.h
+
+1653493810 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\dispositivostec\dispositivo.h
+
+1653492392 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\fecha\fecha.h
+
+1653493810 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\dispositivostec\dispositivo.cpp
+	<iostream>
+	<cstring>
+	"dispositivo.h"
+
+1653492392 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	"fecha.h"
+
+1653525486 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\practica de listas void\listavoid.cpp
+	<iostream>
+	"listaVoid.h"
+	"../Persona/persona.h"
+	"../DispositivosTec/dispositivo.h"
+	"../Fecha/fecha.h"
+
+1652491692 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\practica de listas void\listavoid.h
+
+1653529940 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\practica de listas void\main.cpp
+	<iostream>
+	<cstring>
+	"listaVoid.h"
+	"../Persona/persona.h"
+	"../DispositivosTec/dispositivo.h"
+
