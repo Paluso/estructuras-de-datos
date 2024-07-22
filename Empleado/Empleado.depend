@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1650686437 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\persona\persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+	"../DispositivosTec/dispositivo.h"
+	"../Fecha/fecha.h"
+
+1650676082 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\persona\persona.h
+
+1650677603 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\dispositivostec\dispositivo.h
+
+1650679325 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.h
+
+1650685330 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\empleado\main.cpp
+	<iostream>
+	<cstring>
+	"empleado.h"
+
+1650677724 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\dispositivostec\dispositivo.cpp
+	<iostream>
+	<cstring>
+	"dispositivo.h"
+
+1650685432 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	"fecha.h"
+
+1650686627 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\empleado\empleado.cpp
+	<iostream>
+	<cstring>
+	"empleado.h"
+	"../Persona/persona.h"
+	"../Fecha/fecha.h"
+	"../DispositivosTec/dispositivo.h"
+
+1650684124 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\empleado\empleado.h
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1650676195 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\persona\main.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+	"../DispositivosTec/dispositivo.h"
+
+1650681239 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\persona\persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+	"../DispositivosTec/dispositivo.h"
+	"../Fecha/fecha.h"
+
+1650676082 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\persona\persona.h
+
+1650677724 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\dispositivostec\dispositivo.cpp
+	<iostream>
+	<cstring>
+	"dispositivo.h"
+
+1650677603 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\dispositivostec\dispositivo.h
+
+1650680942 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	"fecha.h"
+
+1650679325 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.h
+

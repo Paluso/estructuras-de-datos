@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650680942 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	"fecha.h"
+
+1650679325 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\fecha.h
+
+1650679412 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\fecha\main.cpp
+	<iostream>
+	"fecha.h"
+

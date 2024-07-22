@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1651302826 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\listas\main.cpp
+	<iostream>
+	<cstring>
+	"listas.h"
+
+1651294916 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\listas\listas.h
+
+1651297181 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\unidad 0\listas\listas.cpp
+	<iostream>
+	<cstring>
+	"listas.h"
+
+1651616994 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\listas\listas.cpp
+	<iostream>
+	<cstring>
+	"listas.h"
+
+1651615084 c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\listas\listas.h
+
+1651617073 source:c:\users\user\documents\lic. en sistemas\2° año\algoritmos y estructuras de datos\2022\tps\unidad 0\listas\main.cpp
+	<iostream>
+	<cstring>
+	"listas.h"
+
